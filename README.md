@@ -16,3 +16,4 @@ In this android application coded in java the Fibonacci series calculator is mad
 For this application, `<for>` loop is utilised. 
 
 ### Image for illustration purposes 
+<img width="308" alt="fibseries" src="https://user-images.githubusercontent.com/61942645/87959410-6c35ad00-cae5-11ea-8c70-ed2e0aaf3675.png">
